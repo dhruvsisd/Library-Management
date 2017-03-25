@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="191" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="164" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblms" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbldeletestudent" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblcs" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDASR" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDSSR" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblBACK" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDB" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblMB" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDSB" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblDAB" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblCB" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+              <Component id="lblcs" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblDASR" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblDSSR" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblms" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lbldeletestudent" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblCB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblDAB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblDSB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblMB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblDB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="lblBACK" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="78" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="ADMINISTRATOR MENU"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblcs">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1. CREATE STUDENT RECORD"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lblcsMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDASR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2. DISPLAY ALL STUDENT RECORDS"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lblDASRMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDSSR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="3. DISPLAY SPECIFIC STUDENT RECORD"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lblDSSRMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblms">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="4.MODIFY STUDENT RECORD"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="lblmsMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblBACK">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="11. BACK TO MAIN MENU"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbldeletestudent">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="5. DELETE STUDENT RECORD"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="6. CREATE BOOK"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDAB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="7. DISPLAY ALL BOOKS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDSB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="8. DISPLAY SPECIFIC BOOK"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblMB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="9. MODIFY BOOK"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblDB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="10. DELETE BOOK"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
